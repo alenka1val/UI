@@ -36,8 +36,8 @@
       <file leaf-file-name="main.c" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="709">
-              <caret line="332" column="1" lean-forward="false" selection-start-line="332" selection-start-column="1" selection-end-line="332" selection-end-column="1" />
+            <state relative-caret-position="409">
+              <caret line="312" column="0" lean-forward="false" selection-start-line="312" selection-start-column="0" selection-end-line="312" selection-end-column="0" />
               <folding>
                 <element signature="e#134#202#0" expanded="false" />
                 <element signature="e#229#544#0" expanded="false" />
@@ -57,7 +57,6 @@
                 <element signature="e#4414#4849#0" expanded="false" />
                 <element signature="e#4851#7625#0" expanded="false" />
                 <element signature="e#7656#8128#0" expanded="false" />
-                <element signature="e#8130#8734#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -122,7 +121,7 @@
     <configuration name="2_zadanie" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2_zadanie" TARGET_NAME="2_zadanie" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2_zadanie" RUN_TARGET_NAME="2_zadanie">
       <envs />
     </configuration>
-    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2_zadanie" RUN_TARGET_NAME="2_zadanie" EXPLICIT_BUILD_TARGET_NAME="all">
       <envs />
     </configuration>
     <list size="2">
@@ -143,12 +142,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552590829264</updated>
-      <workItem from="1552590830711" duration="298000" />
+      <workItem from="1552590830711" duration="498000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="298000" />
+    <option name="totallyTimeSpent" value="498000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -196,8 +195,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="709">
-          <caret line="332" column="1" lean-forward="false" selection-start-line="332" selection-start-column="1" selection-end-line="332" selection-end-column="1" />
+        <state relative-caret-position="409">
+          <caret line="312" column="0" lean-forward="false" selection-start-line="312" selection-start-column="0" selection-end-line="312" selection-end-column="0" />
           <folding>
             <element signature="e#134#202#0" expanded="false" />
             <element signature="e#229#544#0" expanded="false" />
@@ -217,7 +216,6 @@
             <element signature="e#4414#4849#0" expanded="false" />
             <element signature="e#4851#7625#0" expanded="false" />
             <element signature="e#7656#8128#0" expanded="false" />
-            <element signature="e#8130#8734#0" expanded="false" />
           </folding>
         </state>
       </provider>
