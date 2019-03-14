@@ -68,7 +68,7 @@ int **fill_arry(int temp[N * N]) {
         puzzle[i] = (int *) malloc(N * sizeof(int));
         for (int j = 0; j < N; j++) {
             int c = temp[(i * N) + j];
-            if (c >= 0 && c < 10) {
+            if (c >= 0 && c <= N*N) {
                 puzzle[i][j] = c;
             } else {
                 printf("ERROR: Zle zadane cislo. Zadane mozu byt len cele cisla v rozsahu <0,8>\n");
@@ -312,8 +312,8 @@ int stop_function(int *puzzle) {
 
 int main() {
 
-    int start[N * N] = {0, 1, 2, 3, 4, 5, 6, 7, 8}, **puzzle_start;
-    int end[N * N] = {8, 0, 6, 5, 4, 7, 2, 3, 1}, **puzzle_end;
+    int start[N * N] = {15, 2, 1, 12, 8, 5, 6, 11, 4,9,10,7,3,14,13}, **puzzle_start;
+    int end[N * N] = {0, 1, 2, 3, 4, 5, 6, 7, 8,9,10,11,12,13,14,15}, **puzzle_end;
     int *recent_direction;
 
     recent_direction = (int *) malloc(2 * sizeof(int));
@@ -328,6 +328,5 @@ int main() {
     } else {
         printf("UNSOLVABLE\n");
     }
-
     return 0;
 }
