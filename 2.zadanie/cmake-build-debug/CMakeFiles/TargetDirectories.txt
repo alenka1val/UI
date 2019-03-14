@@ -1,0 +1,3 @@
+/Users/alenavalova/Documents/GIT/UI/2.zadanie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alenavalova/Documents/GIT/UI/2.zadanie/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alenavalova/Documents/GIT/UI/2.zadanie/cmake-build-debug/CMakeFiles/2_zadanie.dir
