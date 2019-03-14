@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <limits.h>
 
-#define N 3
+#define N 4
 
 /*TODO vyriesit nacitavanie
  *TODO free function */
